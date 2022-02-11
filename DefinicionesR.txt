@@ -1,0 +1,6 @@
+soy un arreglo modificado
+Sirve para salir de bucles
+Soy una clase modificada
+Parte del bucle while
+Una función consiste en separar código
+Bucle de PHP, siendo el más fácil

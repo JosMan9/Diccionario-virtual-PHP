@@ -1,0 +1,124 @@
+#form_agregar {
+    position: fixed;
+    right: 0px;
+    top:  150px;
+    width: fit-content;
+    border: black solid;
+}
+
+#definicion_agregar {
+    resize: none;
+}
+
+#form_eliminar {
+    position: fixed;
+    right: 0px;
+    top:  500px;
+    width: fit-content;
+    border: black solid;
+}
+
+#heead_R {
+    background: url("fondo_R.jpg");
+    height: 100px;
+    border: #061C6F solid;
+    -webkit-text-stroke: 1px white;
+    color: transparent;
+    font-weight: 5px;
+    font-size: 25px;
+    padding: 6px;
+    text-align: left;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+textarea {
+    margin-bottom: 15px;
+}
+
+#contenedor_padre {
+    background: turquoise;
+}
+
+form {
+    background: sienna;
+
+}
+
+legend {
+    color: wheat;
+}
+
+
+input.boton {
+    width: 100px;
+    height: 30px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    border: black solid;
+    border-radius: 15px;
+}
+
+.input_R, .area_R {
+    border-radius: 15px;
+    border: black solid;
+    padding-left: 15px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background: #CCD5BA;
+}
+
+.input_R {
+    font-weight: bold;
+    font-style: italic;
+}
+
+#palabra_agregar, #definicion_agregar, #palabra_eliminar{
+    border-radius: 15px;
+    border: black solid;
+    padding-left: 10px;
+}
+
+#palabra_agregar, #palabra_eliminar {
+    background: #E7D3B3;
+}
+
+#definicion_agregar {
+    background: #D7BF98;
+}
+
+input.boton:hover {
+    background: #ECD3AB;
+    color: black;
+}
+
+input.boton:enabled {
+    background: #7A5D2D;
+    color: whitesmoke;
+}
+
+
+#secc_principal li {
+    position: relative;
+    top: -60px;
+    right: -930px;
+    display: inline;
+    text-align: center;
+    margin: 0 10px 0 0;
+}
+
+#secc_principal li a {
+    padding: 2px 7px 2px 7px;
+    color: #000000;
+    font-size: 40px;
+
+    text-decoration: none;
+}
+
+#secc_principal li a:hover{
+    color: #07F5A9;
+}
+

@@ -1,0 +1,3 @@
+Es el tipo más sencillo de loop en PHP. Se ejecutan las sentencias dentro del while siempre y cuando se evalúen como true. El valor de la expresión se comprueba cada vez al inicio del loop, y la ejecución no se detendrá hasta que finalice la iteración (cada vez que PHP ejecuta las sentencias en un loop es una iteración). Si la expresión while se evalúa como false, las sentencias no se ejecutarán ni siquiera una vez. También es posible agrupar varias instrucciones while dentro de una.
+Soy una clase PHP
+Estructura condicional
